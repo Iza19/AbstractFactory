@@ -1,0 +1,2 @@
+# AbstractFactory
+Simple AbstractFactory example
